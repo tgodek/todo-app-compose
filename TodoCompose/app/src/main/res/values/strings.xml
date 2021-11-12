@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TodoCompose</string>
+    <string name="search_action">Search Tasks</string>
+    <string name="sort_action">Sort Tasks</string>
+    <string name="delete_all_action">Delete All</string>
+    <string name="task_list_title">Tasks</string>
+    <string name="search_placeholder">Search</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="edit_task">Edit Task</string>
+    <string name="empty_list_icon">Sad face icon</string>
+    <string name="empty_list_text1">List is empty!</string>
+    <string name="empty_list_text2">Tab</string>
+    <string name="empty_list_text3">to add new tasks</string>
+    <string name="add_task">Add Task</string>
+    <string name="new_task">New Task</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+</resources>
